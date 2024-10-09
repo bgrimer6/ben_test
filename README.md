@@ -14,4 +14,4 @@ Here is the version on my local computer. Isn't that grand?
 #Git workflow
 
 
-## We are intentionally creating a conflict
+## We are fixing our conflict by merging our statements
