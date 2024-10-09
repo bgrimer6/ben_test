@@ -12,3 +12,6 @@ Here is the version on my local computer. Isn't that grand?
 
 ## test
 #Git workflow
+
+
+## We are intentionally creating a conflict
